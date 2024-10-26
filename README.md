@@ -1,2 +1,2 @@
 # Nano-Pong
-Using an Arduino nano to run a pong program.
+Using an Arduino Nano to run a pong program, which is fully playable.
