@@ -19,7 +19,8 @@ The code includes the necessary libraries for SPI communication, I2C, and graphi
 
 Here are all of the functions with reasoning, should be quite obvious: 
 
-```cpp Functions
+```cpp 
+//Functions
 showLoadingScreen(): // Displays a welcome message before starting the game.
 resetGame(): // Resets all game variables to their initial states.
 updateBall(): // Handles ball movement, wall collisions, and paddle collisions. It updates the ball's position based on its current direction and speed.
