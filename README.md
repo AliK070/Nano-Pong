@@ -16,3 +16,19 @@ The game features two paddels, one that is controlled by the player and the othe
 must score 9 points to win. 
 
 The code includes the necessary libraries for SPI communication, I2C, and graphics display (Adafruit_GFX and Adafruit_SSD1306). The constants are pin defnitions and the rate of speed for the paddle and ball movement, the paddle height, score limit, and paddle positions.
+
+Here are all of the functions with reasoning, should be quite obvious: 
+
+```cpp Functions
+showLoadingScreen(): // Displays a welcome message before starting the game.
+resetGame(): // Resets all game variables to their initial states.
+updateBall(): // Handles ball movement, wall collisions, and paddle collisions. It updates the ball's position based on its current direction and speed.
+handleBallWallCollision(): // Increments the score of the player or the opponent when the ball hits the wall and resets the ball position.
+updatePaddles(): // Manages the movement of both the player and the AI paddle.
+moveMcuPaddle(): // Moves the AI paddle based on the ball’s vertical position.
+movePlayerPaddle(): // Reads button inputs to move the player’s paddle up or down.
+checkGameOver(): // Checks if either player has reached the score limit.
+handleGameOver(): // Displays the game result and resets the game after a delay.
+drawScores(): // Updates and displays the current scores and ball speed.
+drawCourt(): // Draws the game court boundaries.
+```
