@@ -54,4 +54,5 @@ Here are a few images on how everything should look. Its quite messy and my brea
 
 
 ### Image Two: 
-[https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg ](https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg)
+![20241030_184156](https://github.com/user-attachments/assets/c5ac86a6-616c-4b1a-be53-fc8bdb832f08)
+
