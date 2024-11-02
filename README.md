@@ -50,7 +50,8 @@ drawCourt(); // Draws the game court boundaries.
 Here are a few images on how everything should look. Its quite messy and my breadboard ended up being squished but it should roughly look like what I designed over here: 
 
 ### Image One:
-[Nano-Pong/Imgs/20241030_184111.jpg](https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184111.jpg)
+![20241030_184108](https://github.com/user-attachments/assets/abbcf968-a1a9-4a17-9315-e03126457049)
+
 
 ### Image Two: 
 [https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg ](https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg)
