@@ -45,3 +45,12 @@ drawScores(); // Updates and displays the current scores and ball speed.
 drawCourt(); // Draws the game court boundaries.
 
 ```
+## Putting it Together: 
+
+Here are a few images on how everything should look. Its quite messy and my breadboard ended up being squished but it should roughly look like what I designed over here: 
+
+### Image One:
+[Nano-Pong/Imgs/20241030_184111.jpg](https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184111.jpg)
+
+### Image Two: 
+[https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg ](https://github.com/AliK070/Nano-Pong/blob/main/Imgs/20241030_184156.jpg)
