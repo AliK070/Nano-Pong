@@ -53,6 +53,14 @@ Here are a few images on how everything should look. Its quite messy and my brea
 ![20241030_184108](https://github.com/user-attachments/assets/abbcf968-a1a9-4a17-9315-e03126457049)
 
 
+
 ### Image Two: 
 ![20241030_184156](https://github.com/user-attachments/assets/c5ac86a6-616c-4b1a-be53-fc8bdb832f08)
+
+
+## The Schematic: 
+
+This is an image of the schematic and how to lay everything out, its not the cleanest thing but it'll work: 
+![circ_nano_pong](https://github.com/user-attachments/assets/fdf160f7-b7e0-4c16-a9de-4756da7035fc)
+
 
